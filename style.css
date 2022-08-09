@@ -138,8 +138,13 @@ li{
         margin: 10px auto;
     }
 
+    .name{
+        margin-left: 60px;
+    }
+
     .info {
         width: 100%;
+        margin-right: 50px;
     }
 
     .virsus {
